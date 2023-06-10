@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite">
+    <test name="My Tests">
+        <classes>
+            <class name="framework_tests.WebUIEtE.SignUp" />
+            <class name="framework_tests.WebUIEtE.DataEntry" />
+            <class name="framework_tests.WebUIEtE.CheckLogin" />
+            <class name="framework_tests.WebUIEtE.Laptop" />
+            <class name="framework_tests.WebUIEtE.Comment" />
+        </classes>
+    </test>
+</suite>

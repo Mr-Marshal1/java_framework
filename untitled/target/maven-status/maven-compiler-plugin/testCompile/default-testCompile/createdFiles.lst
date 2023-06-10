@@ -1,0 +1,11 @@
+AllureReport\AllureReportUITest.class
+framework_tests\EndToEndTest.class
+framework_tests\FactoryAndWrapper\LeaveCommentTest.class
+framework_tests\PoAndBo\EndToEndTest.class
+AllureReport\AllureReportAPI.class
+framework_tests\WebUIEtE\SignUp.class
+framework_tests\WebUIEtE\Comment.class
+framework_tests\WebUIEtE\CheckLogin.class
+framework_tests\WebUIEtE\DataEntry.class
+framework_tests\WebUIEtE\Laptop.class
+AllureReport\TestRunner.class
