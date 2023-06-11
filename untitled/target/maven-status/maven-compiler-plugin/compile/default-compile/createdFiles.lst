@@ -12,7 +12,6 @@ UITest\GoogleTest.class
 FactoryAndWrapper\ProductPage.class
 FactoryAndWrapper\LoginPage.class
 UITest\DriverManager.class
-AllureReport\AllureReportUITest.class
 FactoryAndWrapper\CommonElementWrapper.class
 DataProvider\TestDate.class
 FactoryAndWrapper\HomePage.class
